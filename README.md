@@ -1,4 +1,4 @@
-Files overview:
+Files Overview:
 
 - `arcade-chart-sample.js`: Line chart showing streamgage height over the previous 30 days in a Map Viewer popup using Arcade
 - `slides-samples.js`: Various Arcade snippets found in presentation slides (conditional formatting, returning HTML components, etc.)
