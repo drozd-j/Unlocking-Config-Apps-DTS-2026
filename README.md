@@ -16,6 +16,7 @@ Additional Resources:
 - [Arcade Documentation](https://developers.arcgis.com/arcade/)
 - [Arcade Version Matrix](https://developers.arcgis.com/arcade/guide/version-matrix/)
 - [Arcade: Supported Products](https://developers.arcgis.com/arcade/guide/products/)
+- [Arcade: Profile Overview](https://developers.arcgis.com/arcade/profiles/)
 - [Popups: Arcade Essentials](https://www.esri.com/arcgis-blog/products/arcgis-online/mapping/pop-ups-arcade-essentials)
 - [Use Expressions in Map Viewer Popups](https://doc.arcgis.com/en/arcgis-online/create-maps/configure-pop-ups-mv.htm#ESRI_SECTION1_BE0D1CA2E46742F18E7D442FB2E0F47D)
 - [`mediaInfo` Documentation](https://developers.arcgis.com/web-map-specification/objects/mediaInfo/)
@@ -23,4 +24,6 @@ Additional Resources:
 - [Dashboards that Pop: HTML](https://community.esri.com/t5/arcgis-dashboards-blog/dashboards-that-pop-html/ba-p/1237026)
 - [Calculate and Format Data in ArcGIS Dashboards](https://developers.arcgis.com/documentation/app-builders/no-code/arcgis-dashboards/calculate-and-format-data/)
 - [Customize an Instant App with CSS](https://developers.arcgis.com/documentation/app-builders/no-code/tutorials/tools/customize-your-web-app-using-css/)
+- [Experience Builder: Advanced Formatting with Arcade](https://developers.arcgis.com/experience-builder/guide/advanced-formatting/)
+- [Experience Builder: Add Data with Arcade](https://developers.arcgis.com/experience-builder/guide/select-data/#add-data-with-arcade)
 
