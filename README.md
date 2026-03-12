@@ -15,7 +15,7 @@ Additional Resources:
 - [Low-code/No-code App Builders Tutorials](https://developers.arcgis.com/documentation/app-builders/tutorials/)
 - [Arcade Documentation](https://developers.arcgis.com/arcade/)
 - [Arcade Version Matrix](https://developers.arcgis.com/arcade/guide/version-matrix/)
-- [Arcade Supported Products](https://developers.arcgis.com/arcade/guide/products/)
+- [Arcade: Supported Products](https://developers.arcgis.com/arcade/guide/products/)
 - [Popups: Arcade Essentials](https://www.esri.com/arcgis-blog/products/arcgis-online/mapping/pop-ups-arcade-essentials)
 - [Use Expressions in Map Viewer Popups](https://doc.arcgis.com/en/arcgis-online/create-maps/configure-pop-ups-mv.htm#ESRI_SECTION1_BE0D1CA2E46742F18E7D442FB2E0F47D)
 - [`mediaInfo` Documentation](https://developers.arcgis.com/web-map-specification/objects/mediaInfo/)
