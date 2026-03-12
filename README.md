@@ -22,6 +22,7 @@ Additional Resources:
 - [`mediaInfo` Documentation](https://developers.arcgis.com/web-map-specification/objects/mediaInfo/)
 - [Supported HTML and CSS in ArcGIS Online](https://doc.arcgis.com/en/arcgis-online/reference/supported-html.htm)
 - [Dashboards that Pop: HTML](https://community.esri.com/t5/arcgis-dashboards-blog/dashboards-that-pop-html/ba-p/1237026)
+- [Dashboards that Pop: Arcade](https://community.esri.com/t5/arcgis-dashboards-blog/dashboards-that-pop-arcade/ba-p/1241244)
 - [Calculate and Format Data in ArcGIS Dashboards](https://developers.arcgis.com/documentation/app-builders/no-code/arcgis-dashboards/calculate-and-format-data/)
 - [Customize an Instant App with CSS](https://developers.arcgis.com/documentation/app-builders/no-code/tutorials/tools/customize-your-web-app-using-css/)
 - [Experience Builder: Advanced Formatting with Arcade](https://developers.arcgis.com/experience-builder/guide/advanced-formatting/)
