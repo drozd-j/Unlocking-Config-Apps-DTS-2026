@@ -38,8 +38,7 @@ var IncidentTypeTextColor = When(
   IncidentTypeCategory == "WF",
   "white", // white text on dark red
   IncidentTypeCategory == "IC",
-  "white",
-  // white text on purple
+  "white", // white text on purple
   "",
 );
 
